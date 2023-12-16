@@ -6,7 +6,7 @@ The project aims to explore medical terms and identify the most effective classi
 # Dataset
 The dataset used for this analysis can be found on Kaggle at the following link: [Smoking and Drinking Dataset with body signal](https://www.kaggle.com/datasets/sooyoungher/smoking-drinking-dataset).
 
-# Models used
+# Classification models
 This projects used the following models and then compared the performance of them
 - Logistic Regression
 - Gaussian Naive Bayes
