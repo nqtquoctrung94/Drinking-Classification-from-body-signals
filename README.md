@@ -1,7 +1,4 @@
 # Drinking Classification from body signals
-
-# Customer Personality Analysis with RFM model
-
 This repository contains code and results for a project classification of drinking behavior based on results from general check-up. 
 
 The project aims to explore medical terms and identify the most effective classification models for this dataset.
